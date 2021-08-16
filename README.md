@@ -1,36 +1,28 @@
-# Portfolio 
+# Portfolio
 
 This static website is developed to provide an overview of my profile.
 
-Live Website - [sumusiriwardana.github.io](https://www.sumusiriwardana.github.io/)
+[![Screenshot](images/portfolio-design.gif)][website]
+
+> Live Website - [sumusiriwardana.github.io][website]
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Built with](#built-with)
-  - [Designs](#designs)
+- [Built with](#built-with)
 - [Author](#author)
 
-## Overview
-
-### Built with
+## Built with
 
 - HTML5
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
 
-### Designs:
-
-### Desktop design
-
-![](images/desktop-design.jpg)
-
-### Mobile design
-
-![](images/mobile-design.jpg)
-
 ## Author
 
-- Website - [Sumudu Siriwardana](https://sumudusiriwardana.hashnode.dev/)
-- Twitter - [@sumusiriwardana](https://twitter.com/sumusiriwardana)
+- Blog - [Sumudu Siriwardana][blog]
+- Twitter - [@sumusiriwardana][twitter]
+
+[website]: https://sumusiriwardana.github.io/
+[blog]: https://sumudusiriwardana.hashnode.dev/
+[twitter]: https://twitter.com/sumusiriwardana/
