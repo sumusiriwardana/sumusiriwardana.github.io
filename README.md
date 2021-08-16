@@ -6,11 +6,6 @@ This static website is developed to provide an overview of my profile.
 
 > Live Website - [sumusiriwardana.github.io][website]
 
-## Table of contents
-
-- [Built with](#built-with)
-- [Author](#author)
-
 ## Built with
 
 - HTML5
