@@ -2,7 +2,7 @@
 
 This static website is developed to provide an overview of my profile.
 
-[![Screenshot](images/portfolio-design.gif)][website]
+[![Screenshot](images/portfolio-screenshot.gif)][website]
 
 > Live Website - [sumusiriwardana.github.io][website]
 
